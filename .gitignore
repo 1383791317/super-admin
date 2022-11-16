@@ -1,0 +1,7 @@
+/.idea
+/runtime
+/logs
+/.vscode
+/vendor
+*.log
+.env
